@@ -1,6 +1,8 @@
 ﻿# Fabio de Sena Miranda
- Estudante de Engenharia de Software 
+ Software Engineering @Pixel8
  
- Se aprofudando em Front End.
+I'm a software engineer at Pixel 8, working with web platform development, 
+software architecture and cloud solutions.
  
- Contacts: [Twitter] | (https://twitter.com/Mirandde)
+Contacts: [Twitter] | (https://twitter.com/Mirandde)
+          [Linkedin] | (https://www.linkedin.com/in/fabio-de-sena-miranda)
